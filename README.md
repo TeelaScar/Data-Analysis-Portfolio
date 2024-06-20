@@ -47,7 +47,7 @@ Sales Data: Primary data used for this analysis is the "pizza_sales.csv" file, c
 
 ## Contact
 - Linkedln: [@ShantelaBolton](www.linkedin.com/in/shantelabolton)
-- Email: (shatela4ever@gmail.com)
+- Email: (shantela4ever@gmail.com)
 
 
 
