@@ -1,7 +1,10 @@
 
 1. Total Revenue:
 SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;
- 
+
+![Total Revenue](https://github.com/TeelaScar/Data-Analysis-Portfolio/assets/152034111/f59dc2fe-683b-4b5b-856b-4b0ad3da9c35)
+
+
 2. Average Order Value
 SELECT (SUM(total_price) / COUNT(DISTINCT order_id)) AS Avg_order_Value FROM pizza_sales
  
