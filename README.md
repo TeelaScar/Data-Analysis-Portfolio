@@ -35,7 +35,7 @@ Daily trends for Total Orders
 Monthly Trend for Total Orders
 Percentage of Sales by Pizza Category
 
-Code: Pizza Sales Queries.ipynb
+Code: [Pizza Sales Queries](https://github.com/TeelaScar/Data-Analysis-Portfolio/blob/main/SQL/Pizza%20Sales%20Queries)
 
 ### Data Source
 Sales Data: Primary data used for this analysis is the "pizza_sales.csv" file, containig detail information about each sale
