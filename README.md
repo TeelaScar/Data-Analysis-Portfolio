@@ -1,5 +1,14 @@
 # About Me
-Hello. I'm an enthusiastic entry-level data analyst with a strong foundation in SQL and Power BI. I am passionate about leveraging data to drive insights and support decision-making processes. Although I am just starting my professional journey, I am eager to apply my analytical skills and learn from real-world experiences.
+Hello. I'm an enthusiastic entry-level data analyst with a strong SQL and Power BI foundation. I am passionate about leveraging data to drive insights and support decision-making processes. Although I am just starting my professional journey, I am eager to apply my analytical skills and learn from real-world experiences.
+
+## Skills
+
+SQL: Proficient in writing queries to extract, manipulate, and analyze data from databases. Experienced in using SQL for data cleaning, transformation, and aggregation.
+
+Power BI: Skilled in creating interactive and visually appealing dashboards and reports. Capable of using DAX functions to perform advanced calculations and data analysis.
+
+Data Analysis: Strong analytical mindset with the ability to interpret data and generate actionable insights.
+Problem-Solving: Adept at tackling complex problems and breaking them down into manageable parts.
 
 
 # Projects
@@ -7,10 +16,12 @@ Hello. I'm an enthusiastic entry-level data analyst with a strong foundation in 
 
 ## Pizza Sales Analysis
 
-
+Objective: Analyzed a sales dataset to identify trends and patterns.
+Tools Used: SQL, Power BI
+Outcome: Created a comprehensive dashboard highlighting key sales metrics, seasonal trends, and top-performing products.
 
 ### Project Overview
-Solving multiple problem statments with the data provided. Using SQL and data visualization. Analyze key indicators for pizza data to gain insights into business performance. 
+Solving multiple problem statements with the data provided using SQL and data visualization. Analyze key indicators for pizza data to gain insights into business performance. 
 
 ### Exploratory Data Analysis
 Total Revenue
