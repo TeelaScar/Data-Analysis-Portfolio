@@ -30,7 +30,7 @@ Total Pizza Sold
 Total Orders
 Average Pizza Per Order
 
-- Charts Tequirement
+- Charts Requirement
 Daily trends for Total Orders
 Monthly Trend for Total Orders
 Percentage of Sales by Pizza Category
@@ -44,3 +44,10 @@ Sales Data: Primary data used for this analysis is the "pizza_sales.csv" file, c
 Excel- Data Cleaning
 PowerBI - Data Visualization
 Microsoft SQL Server - Data Analysis
+
+## Contact
+Linkedln [@ShantelaBolton](www.linkedin.com/in/shantelabolton)
+Email (shatela4ever@gmail.com)
+
+
+
