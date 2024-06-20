@@ -17,7 +17,9 @@ Problem-Solving: Adept at tackling complex problems and breaking them down into 
 ## Pizza Sales Analysis
 
  Objective: Analyzed a sales dataset to identify trends and patterns.
+ 
  Tools Used: SQL, Power BI
+ 
  Outcome: Created a comprehensive dashboard highlighting key sales metrics, seasonal trends, and top-performing products.
 
 ### Project Overview
