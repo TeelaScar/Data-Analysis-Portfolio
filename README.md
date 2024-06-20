@@ -16,29 +16,29 @@ Problem-Solving: Adept at tackling complex problems and breaking them down into 
 
 ## Pizza Sales Analysis
 
-Objective: Analyzed a sales dataset to identify trends and patterns.
-Tools Used: SQL, Power BI
-Outcome: Created a comprehensive dashboard highlighting key sales metrics, seasonal trends, and top-performing products.
+- Objective: Analyzed a sales dataset to identify trends and patterns.
+- Tools Used: SQL, Power BI
+- Outcome: Created a comprehensive dashboard highlighting key sales metrics, seasonal trends, and top-performing products.
 
 ### Project Overview
 Solving multiple problem statements with the data provided using SQL and data visualization. Analyze key indicators for pizza data to gain insights into business performance. 
 
 ### Exploratory Data Analysis
-Total Revenue
-Average Order Value
-Total Pizza Sold
-Total Orders
-Average Pizza Per Order
+- Total Revenue
+- Average Order Value
+- Total Pizza Sold
+- Total Orders
+- Average Pizza Per Order
 
-- Charts Requirement
-Daily trends for Total Orders
-Monthly Trend for Total Orders
-Percentage of Sales by Pizza Category
+### Charts Requirement
+- Daily trends for Total Orders
+- Monthly Trend for Total Orders
+- Percentage of Sales by Pizza Category
 
 Code: [Pizza Sales Queries](https://github.com/TeelaScar/Data-Analysis-Portfolio/blob/main/SQL/Pizza%20Sales%20Queries)
 
 ### Data Source
-Sales Data: Primary data used for this analysis is the "pizza_sales.csv" file, containig detail information about each sale
+Sales Data: Primary data used for this analysis is the "pizza_sales.csv" file, containing detailed information about each sale
 
 ### Tools
 - Excel- Data Cleaning
