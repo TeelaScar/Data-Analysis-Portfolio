@@ -1,4 +1,11 @@
-# Pizza Sales Analysis
+# About Me
+Hello. I'm an enthusiastic entry-level data analyst with a strong foundation in SQL and Power BI. I am passionate about leveraging data to drive insights and support decision-making processes. Although I am just starting my professional journey, I am eager to apply my analytical skills and learn from real-world experiences.
+
+
+# Projects
+
+
+## Pizza Sales Analysis
 
 
 
