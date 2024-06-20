@@ -41,13 +41,13 @@ Code: [Pizza Sales Queries](https://github.com/TeelaScar/Data-Analysis-Portfolio
 Sales Data: Primary data used for this analysis is the "pizza_sales.csv" file, containig detail information about each sale
 
 ### Tools
-Excel- Data Cleaning
-PowerBI - Data Visualization
-Microsoft SQL Server - Data Analysis
+- Excel- Data Cleaning
+- PowerBI - Data Visualization
+- Microsoft SQL Server - Data Analysis
 
 ## Contact
-Linkedln [@ShantelaBolton](www.linkedin.com/in/shantelabolton)
-Email (shatela4ever@gmail.com)
+- Linkedln: [@ShantelaBolton](www.linkedin.com/in/shantelabolton)
+- Email: (shatela4ever@gmail.com)
 
 
 
