@@ -48,7 +48,7 @@ Sales Data: Primary data used for this analysis is the "pizza_sales.csv" file, c
 - Microsoft SQL Server - Data Analysis
 
 ## Contact
-- Linkedln: [@ShantelaBolton](www.linkedin.com/in/shantelabolton)
+- Linkedin: [@ShantelaBolton](www.linkedin.com/in/shantelabolton)
 - Email: (shantela4ever@gmail.com)
 
 
